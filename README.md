@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idrees04" alt="idrees04" /></a> </p>
 
-- 🔭 I’m currently working on [Quranic Quiz](https://github.com/idrees04/Quranic_Quiz_Cli.git)
+- 🔭 I’m currently working in VisualSoft Global (LLP)
 
 - 👨‍💻 All of my projects are available at [https://github.com/idrees04?tab=repositories](https://github.com/idrees04?tab=repositories)
 
