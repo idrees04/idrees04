@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idrees04&" alt="idrees04" /></p>
 
-[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=10389571)](https://github.com/kurt-liao/so-stats)
+[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=8013797)](https://github.com/kurt-liao/so-stats)
