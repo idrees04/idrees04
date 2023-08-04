@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idrees04&show_icons=true&locale=en" alt="idrees04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idrees04&" alt="idrees04" /></p>
+
+[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=10389571)](https://github.com/kurt-liao/so-stats)
