@@ -1,34 +1,39 @@
-# Muhammad Idrees - React JS Developer
+Muhammad Idrees
+React Js Developer
+📍 Rawalpindi, Punjab, Pakistan
 
-## Summary
-Passionate React JS Developer with over 2 years of experience in web and mobile app development. Proficient in React, React Native, and UI/UX design. Strong believer in agile methodologies and continuous learning.
+Summary
+Passionate React JS Developer with over 2 years of experience.
+1+ year of expertise in React-Native.
+Total of 4 years of cumulative part-time experience in software development.
+Proficient in state management tools like Redux and ContextAPI.
+Expertise in RESTful APIs integration.
+Web Design expertise, adhering to Figma guidelines.
+Well-versed in agile scrum methodology using Jira.
+Solid understanding of GIT commands for collaboration and version control.
+Experience
+VisualSoft Global (LLP)
+React JS Developer | Nov 2022 - Present (9 months) | Rawalpindi, Punjab, Pakistan
 
-## Expertise
-- React JS, React Native, Redux, ContextAPI
-- RESTful API Integration
-- Responsive UI/UX Design
-- Agile Scrum Methodology
-- Version Control with GIT
+Creating well-structured, performance, and reusable React components.
+Implementing responsive and user-friendly UI components.
+Integrating front-end with backend services, handling API requests, and responses.
+BCDApps
+React JS Developer | Oct 2022 - Nov 2022 (2 months) | Rawalpindi, Punjab, Pakistan
 
-## Experience
+Implemented internationalization using i18n in Vue.
+Configured multi-language support and language-switching functionality.
+Created webAPI in Node JS integrated with Mongoose's Database.
+Alexa IT Homes
+Software Engineer (Part Time) | Jan 2019 - Aug 2022 (3 years 8 months) | Remote
 
-### React JS Developer | VisualSoft Global (LLP) | Nov 2022 - Present
-- Created and maintained reusable React components for optimal performance.
-- Integrated UI with backend services and managed API requests.
-- Debugged and resolved issues to ensure smooth functionality.
+Developed data visualization tools and custom components.
+Write application interface code with JavaScript.
+API Integration for mobile/web applications.
+COMSATS University Islamabad
+Coordinator of HOD CS / Laboratory Assistant | March 2010 - Nov 2022
 
-### React JS Developer | BCDApps | Oct 2022 - Nov 2022
-- Implemented internationalization using i18n in Vue for multi-language support.
-- Developed responsive UI components and followed Agile methodologies.
-
-### Software Engineer (Part-Time) | Alexa IT Homes | Jan 2019 - Aug 2022
-- Designed and developed custom UI components for web applications.
-- Integrated APIs for mobile and web apps, optimizing performance.
-
-## Education
-- Master of Computer Science, Arid Agriculture University Rawalpindi, 2014 - 2017
-
-## Contact
-- Location: Rawalpindi, Punjab, Pakistan
-- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%B1-%F0%9D%97%9C%F0%9D%97%B1%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B2%F0%9D%98%80-240784115/)https://www.linkedin.com/in/%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%B1-%F0%9D%97%9C%F0%9D%97%B1%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B2%F0%9D%98%80-240784115/)
-- Email: Midrees0045@gmail.com
+Managed all tasks related to the Department of Computer Science.
+Education
+Arid Agriculture University Rawalpindi
+Master of Computer Science, (2014 - 2017)
