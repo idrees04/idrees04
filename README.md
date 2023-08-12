@@ -1,33 +1,34 @@
-<h1 align="center">Hi 👋, I'm Muhammad idrees</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+# Muhammad Idrees - React JS Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idrees04" alt="idrees04" /></a> </p>
+## Summary
+Passionate React JS Developer with over 2 years of experience in web and mobile app development. Proficient in React, React Native, and UI/UX design. Strong believer in agile methodologies and continuous learning.
 
-- 🔭 I’m currently working in VisualSoft Global (LLP)
+## Expertise
+- React JS, React Native, Redux, ContextAPI
+- RESTful API Integration
+- Responsive UI/UX Design
+- Agile Scrum Methodology
+- Version Control with GIT
 
-- 👨‍💻 All of my projects are available at [https://github.com/idrees04?tab=repositories](https://github.com/idrees04?tab=repositories)
+## Experience
 
-- 💬 Ask me about **react, react native**
+### React JS Developer | VisualSoft Global (LLP) | Nov 2022 - Present
+- Created and maintained reusable React components for optimal performance.
+- Integrated UI with backend services and managed API requests.
+- Debugged and resolved issues to ensure smooth functionality.
 
-- 📫 How to reach me **midrees0045@gmail.com**
+### React JS Developer | BCDApps | Oct 2022 - Nov 2022
+- Implemented internationalization using i18n in Vue for multi-language support.
+- Developed responsive UI components and followed Agile methodologies.
 
-- 📄 Know about my experiences [Click Hare for CV](https://pern-my.sharepoint.com/:b:/g/personal/m_idrees_comsats_edu_pk/EfJ_Q-oD0hhAiYWfu3k7rJwBfXiQqZgjlIYh6BcUs8SxlQ?e=5cBdhn)
+### Software Engineer (Part-Time) | Alexa IT Homes | Jan 2019 - Aug 2022
+- Designed and developed custom UI components for web applications.
+- Integrated APIs for mobile and web apps, optimizing performance.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-idrees-240784115/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-idrees-240784115/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8013797/muhammad-idrees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8013797/muhammad-idrees" height="30" width="40" /></a>
-<a href="https://fb.com/idrees04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="idrees04" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/idrees041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="idrees041" height="30" width="40" /></a>
-</p>
+## Education
+- Master of Computer Science, Arid Agriculture University Rawalpindi, 2014 - 2017
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idrees04&show_icons=true&locale=en&layout=compact" alt="idrees04" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idrees04&show_icons=true&locale=en" alt="idrees04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idrees04&" alt="idrees04" /></p>
-
-[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=8013797&theme=default&cache=true)](https://github.com/kurt-liao/so-stats)
+## Contact
+- Location: Rawalpindi, Punjab, Pakistan
+- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%B1-%F0%9D%97%9C%F0%9D%97%B1%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B2%F0%9D%98%80-240784115/)https://www.linkedin.com/in/%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%B1-%F0%9D%97%9C%F0%9D%97%B1%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B2%F0%9D%98%80-240784115/)
+- Email: Midrees0045@gmail.com
