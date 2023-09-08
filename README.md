@@ -11,7 +11,6 @@
             text-align: center;
             font-family: arial;
         }
-
         .title {
             color: grey;
             font-size: 18px;
