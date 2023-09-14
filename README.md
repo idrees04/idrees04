@@ -28,6 +28,7 @@
             width: 100%;
             font-size: 18px;
         }
+        
 
         a {
             text-decoration: none;
