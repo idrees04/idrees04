@@ -1,64 +1,4 @@
 
-
-<!DOCTYPE html>
-<html>
-<head> 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <style>
-        .card {
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-            max-width: 300px;
-            margin: auto;
-            text-align: center;
-            font-family: arial;
-        }
-        .title {
-            color: grey;
-            font-size: 18px;
-        }
-
-        button {
-            border: none;
-            outline: 0;
-            display: inline-block;
-            padding: 8px;
-            color: white;
-            background-color: #000;
-            text-align: center;
-            cursor: pointer;
-            width: 100%;
-            font-size: 18px;
-        }
-        
-
-        a {
-            text-decoration: none;
-            font-size: 22px;
-            color: black;
-        }
-
-        button:hover,
-        a:hover {
-            opacity: 0.7;
-        }
-    </style>
-</head>
-
-<body>
-
-    <h2 style="text-align:center">User Profile Card</h2>
-
-    <div class="card">
-
-        <h1 id="name"></h1>
-        <p id="reputation"></p>
-        <p id="gold"></p>
-        <p id="silver"></p>
-        <p id="bronze"></p>
-        <p><button>Contact</button></p>
-    </div>
-
-
     <h1 align="center">Hi 👋, I'm Muhammad idrees</h1>
     <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
@@ -134,19 +74,4 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idrees04&" alt="idrees04" /></p>
 
 
-    <script>
-        async function get() {
-            var r = await fetch('https://api.stackexchange.com/2.3/users/8013797?order=desc&sort=reputation&site=stackoverflow');
-            var data = await r.json();
-            document.getElementById("name").textContent = data['items'][0]['display_name'];
-            document.getElementById("reputation").textContent = "Reputation : " + data['items'][0]['reputation'];
-            document.getElementById("gold").textContent = "Gold : " + data['items'][0]['badge_counts']['gold'];
-            document.getElementById("silver").textContent = "Silver : " + data['items'][0]['badge_counts']['silver'];
-            document.getElementById("bronze").textContent = "Bronze : " + data['items'][0]['badge_counts']['bronze'];
-        }
 
-        get();
-    </script>
-</body>
-
-</html>
