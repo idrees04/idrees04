@@ -1,40 +1,22 @@
+# Hi 👋, I'm Muhammad Idrees
 
-    <h1 align="center">Hi 👋, I'm Muhammad idrees</h1>
-    <h3 align="center">A passionate frontend developer from Pakistan</h3>
+A passionate frontend developer from Pakistan
 
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-                src="https://github-profile-trophy.vercel.app/?username=idrees04" alt="idrees04" /></a> </p>
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=idrees04)](https://github.com/idrees04)
 
-    - 🔭 I’m currently working in VisualSoft Global (LLP)
+- 🔭 I’m currently working at VisualSoft Global (LLP)
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/idrees04?tab=repositories)
+- 💬 Ask me about **React, React Native**
+- 📫 How to reach me: midrees0045@gmail.com
 
-    - 👨‍💻 All of my projects are available at
-    [https://github.com/idrees04?tab=repositories](https://github.com/idrees04?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/muhammad-idrees-240784115/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange)](https://stackoverflow.com/users/8013797/muhammad-idrees)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://fb.com/idrees04)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/c/idrees041)
 
-    - 💬 Ask me about **react, react native**
+## Languages and Tools:
 
-    - 📫 How to reach me **midrees0045@gmail.com**
-
-    - 📄 Know about my experiences
-    [https://pern-my.sharepoint.com/:w:/g/personal/m_idrees_comsats_edu_pk/EQ9I3CPV2ehClqL92dfZGMYBdnS3-Hzm1OUXotFhVSCdHw?e=BYwTCo](https://pern-my.sharepoint.com/:w:/g/personal/m_idrees_comsats_edu_pk/EQ9I3CPV2ehClqL92dfZGMYBdnS3-Hzm1OUXotFhVSCdHw?e=BYwTCo)
-
-    <h3 align="left">Connect with me:</h3>
-    <p align="left">
-        <a href="https://linkedin.com/in/muhammad-idrees-240784115/" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                alt="muhammad-idrees-240784115/" height="30" width="40" /></a>
-        <a href="https://stackoverflow.com/users/8013797/muhammad-idrees" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-                alt="8013797/muhammad-idrees" height="30" width="40" /></a>
-        <a href="https://fb.com/idrees04" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-                alt="idrees04" height="30" width="40" /></a>
-        <a href="https://www.youtube.com/c/idrees041" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-                alt="idrees041" height="30" width="40" /></a>
-    </p>
-
-    <h3 align="left">Languages and Tools:</h3>
-    <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                 alt="react" width="40" height="40" /> </a> <a href="https://reactnative.dev/" target="_blank"
             rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"
@@ -62,16 +44,4 @@
                 alt="nodejs" width="40" height="40" /> </a> <a href="https://www.sqlite.org/" target="_blank"
             rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"
                 width="40" height="40" /> </a> </p>
-
-    <p><img align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=idrees04&show_icons=true&locale=en&layout=compact"
-            alt="idrees04" /></p>
-
-    <p>&nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=idrees04&show_icons=true&locale=en"
-            alt="idrees04" /></p>
-
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idrees04&" alt="idrees04" /></p>
-
-
 
