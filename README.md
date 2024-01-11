@@ -79,7 +79,7 @@ A passionate frontend developer from Pakistan
 
 <!--
 <p align="center">
-  <a href="https://github.com/idrees04"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/idrees04"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;2.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
@@ -110,7 +110,7 @@ A passionate frontend developer from Pakistan
 
 <p align="center">
   <a href="https://github.com/idrees04">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=idrees04&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=idrees04&theme=radical&border=7F3FBF&background=0D1117" alt="Idrees's GitHub streak"/>
   </a>
 </p>
 
