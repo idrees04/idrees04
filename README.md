@@ -110,13 +110,13 @@ A passionate frontend developer from Pakistan
 
 <p align="center">
   <a href="https://github.com/idrees04">
-    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=idrees04&theme=radical&border=7F3FBF&background=0D1117](https://github-readme-streak-stats.herokuapp.com/?user=idrees04&theme=radical&border=7F3FBF&background=0D1117)" alt="Idrees's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=idrees04&theme=radical&border=7F3FBF&background=0D1117" alt="Idrees's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/idrees04">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idrees04&theme=radical" alt="Muhammad Idrees's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idrees04&theme=radical" alt=" Muhammad Idrees's GitHub Contribution"/>
   </a>
 </p>
 
