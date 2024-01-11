@@ -103,17 +103,6 @@ A passionate frontend developer from Pakistan
 
 <br/>
 <br/>
-<br/>
-
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=idrees04&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/idrees04/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=idrees04&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/idrees04/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=idrees04&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/idrees04/web-projects)
-[![Muhammad Idrees Readme](https://github-readme-stats.vercel.app/api/pin/?username=idrees04&repo=idrees04&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/idrees04/idrees04)
-
-<p align="left">
-  <a href="https://github.com/idrees04?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 <br/>
 <hr/>
