@@ -94,11 +94,7 @@ A passionate frontend developer from Pakistan
 </p>
 
 <br/>
-<br/>
-
-<br/>
 <hr/>
-<br/>
 
 <p align="center">
   <a href="https://github.com/idrees04">
