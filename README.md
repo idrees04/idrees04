@@ -77,16 +77,9 @@ A passionate frontend developer from Pakistan
 </h2>
 -->
 
-<!--
 <p align="center">
   <a href="https://github.com/idrees04"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;2.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-
- -->
-
-<a href="https://komarev.com/ghpvc/?username=idrees04">
-  <img align="right" src="https://komarev.com/ghpvc/?username=idrees04&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
 
 <!-- About Section -->
  # About me
@@ -96,7 +89,6 @@ A passionate frontend developer from Pakistan
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: idrees04.dev@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/idrees04/idrees04/issues)
 
 </p>
