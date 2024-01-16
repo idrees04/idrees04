@@ -119,9 +119,9 @@
 <ul><li><strong>Share to Grow:</strong> I believe in sharing knowledge. It not only helps others but enhances my own understanding.</li><li><strong>Continuous Learning:</strong> Technology evolves rapidly, and so do I. Staying updated is not just a necessity but a passion.</li><li><strong>Quality Over Quantity:</strong> Every line of code I write is a reflection of my dedication to crafting high-quality and efficient solutions.</li></ul>
 
 <h2>💌 Let's Talk</h2>
-<p>Whether you have a project in mind, need advice on React, or simply want to say hello, don't hesitate to reach out. I'm always open to discussing new ideas or lending a helping hand.</p>
+<p>Whether you have a project in mind, need advice on React, don't hesitate to reach out. I'm always open to discussing new ideas or lending a helping hand.</p>
 
-<p>Thank you for stopping by my profile. Let's connect and create something amazing together!</p>
+<p>Feel free to connect with me on <a target="_new" href="https://www.linkedin.com/in/muhammad-idrees-240784115/">LinkedIn</a> for professional collaborations and networking. You can also reach out to me on WhatsApp at <a target="_new">+923338770433</a> 📱. Looking forward to engaging with you on exciting projects and discussions!</p>
 <hr>
 <p align="center">
   &copy; 2024 Muhammad Idrees | Frontend Developer
