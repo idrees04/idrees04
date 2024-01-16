@@ -124,6 +124,6 @@
 
 <p>Thank you for stopping by my profile. Let's connect and create something amazing together!</p>
 <hr>
-&lt;p align="center"&gt;
-  &amp;copy; 2024 Muhammad Idrees | Frontend Developer
-&lt;/p&gt;
+<p align="center">
+  &copy; 2024 Muhammad Idrees | Frontend Developer
+</p>
