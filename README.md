@@ -4,7 +4,7 @@ A passionate frontend developer from Pakistan
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=idrees04)](https://github.com/idrees04)
 
-- 🔭 I’m currently working at VisualSoft Global (LLP)
+- 🔭 I’m currently working at [99 Technologies](https://www.linkedin.com/company/99technologies/)
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/idrees04?tab=repositories)
 - 💬 Ask me about **React, React Native**
 - 📫 How to reach me: midrees0045@gmail.com
