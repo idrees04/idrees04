@@ -39,7 +39,8 @@
             rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"
                 width="40" height="40" /> </a> </p> -->
 
-# Use To Code
+<h2>🛠️ Skills and Tools</h2>
+<p>I bring ideas to life using a spectrum of technologies:</p>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -74,7 +75,7 @@
 
 <!-- About Section -->
 
-# About me
+<h2>📚 About Me</h2>
 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
