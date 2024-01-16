@@ -14,7 +14,7 @@ A passionate frontend developer from Pakistan
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://fb.com/idrees04)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/c/idrees041)
 
-## Languages and Tools:
+<!-- ## Languages and Tools:
 
 <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -43,7 +43,7 @@ A passionate frontend developer from Pakistan
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
                 alt="nodejs" width="40" height="40" /> </a> <a href="https://www.sqlite.org/" target="_blank"
             rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"
-                width="40" height="40" /> </a> </p>
+                width="40" height="40" /> </a> </p> -->
 
 # Use To Code
 
