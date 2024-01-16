@@ -90,7 +90,7 @@
 <br/>
 <br/>
 <hr/>
-
+<h2>📈 My GitHub Journey</h2>
 <p align="center">
   <a href="https://github.com/idrees04">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=idrees04&theme=radical&border=7F3FBF&background=0D1117" alt="Idrees's GitHub streak"/>
@@ -110,3 +110,20 @@
 </a>
 
 ![Muhammad Idrees's Graph](https://github-readme-activity-graph.vercel.app/graph?username=idrees04&custom_title=Muhammad%20Idrees's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<h2>🌱 Growth and Learning</h2>
+
+<p>As a self-taught programmer, I've journeyed through countless hours of coding, debugging, and learning. My path has been marked by persistent growth, a journey that reflects in every project I undertake. With over 2.5 years of hands-on experience, I continue to delve into the depths of frontend technologies, always eager to embrace new challenges and innovations.</p>
+
+<h2>💡 Philosophy</h2>
+
+<ul><li><strong>Share to Grow:</strong> I believe in sharing knowledge. It not only helps others but enhances my own understanding.</li><li><strong>Continuous Learning:</strong> Technology evolves rapidly, and so do I. Staying updated is not just a necessity but a passion.</li><li><strong>Quality Over Quantity:</strong> Every line of code I write is a reflection of my dedication to crafting high-quality and efficient solutions.</li></ul>
+
+<h2>💌 Let's Talk</h2>
+<p>Whether you have a project in mind, need advice on React, or simply want to say hello, don't hesitate to reach out. I'm always open to discussing new ideas or lending a helping hand.</p>
+
+<p>Thank you for stopping by my profile. Let's connect and create something amazing together!</p>
+<hr>
+&lt;p align="center"&gt;
+  &amp;copy; 2024 Muhammad Idrees | Frontend Developer
+&lt;/p&gt;
