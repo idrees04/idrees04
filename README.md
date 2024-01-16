@@ -1,18 +1,12 @@
-# Hi 👋, I'm Muhammad Idrees
+<h1>Muhammad Idrees: Frontend Developer Extraordinaire 🚀</h1>
 
-A passionate frontend developer from Pakistan
+<p>Hello there! I'm Muhammad Idrees, a dedicated and passionate frontend developer hailing from the beautiful country of Pakistan. My journey in the world of programming is marked by constant learning and a deep love for crafting engaging user experiences.</p>
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=idrees04)](https://github.com/idrees04)
+<p><a target="_new" href="https://github.com/idrees04"><img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=idrees04"></a></p>
 
-- 🔭 I’m currently working at [99 Technologies](https://www.linkedin.com/company/99technologies/)
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/idrees04?tab=repositories)
-- 💬 Ask me about **React, React Native**
-- 📫 How to reach me: midrees0045@gmail.com
+<h2>🌐 Connect with Me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/muhammad-idrees-240784115/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange)](https://stackoverflow.com/users/8013797/muhammad-idrees)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://fb.com/idrees04)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/c/idrees041)
+<ul><li>Currently enhancing digital experiences at <a target="_new" href="https://www.linkedin.com/company/99technologies/">99 Technologies</a></li><li>Explore my coding adventures at <a target="_new" href="https://github.com/idrees04?tab=repositories">My GitHub Repositories</a></li><li>Got questions on React or React Native? Feel free to <a target="_new">reach out</a></li><li>Let's connect! <a target="_new" href="https://linkedin.com/in/muhammad-idrees-240784115/">LinkedIn</a> | <a target="_new" href="https://stackoverflow.com/users/8013797/muhammad-idrees">Stack Overflow</a> | <a target="_new" href="https://fb.com/idrees04">Facebook</a> | <a target="_new" href="https://www.youtube.com/c/idrees041">YouTube</a></li></ul>
 
 <!-- ## Languages and Tools:
 
