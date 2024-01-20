@@ -2,6 +2,8 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=idrees04&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
 <h1>Muhammad Idrees: Frontend Developer Extraordinaire 🚀</h1>
 
 <p>Hello there! I'm Muhammad Idrees, a dedicated and passionate frontend developer hailing from the beautiful country of Pakistan. My journey in the world of programming is marked by constant learning and a deep love for crafting engaging user experiences.</p>
@@ -58,6 +60,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 <!-- ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc) -->
 <!-- ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) -->
 <!-- ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) -->
@@ -83,9 +86,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/idrees04/idrees04/issues)
+✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+❤️ &emsp; Love to writing code and learning new features<br/><br/>
+💬 &emsp; Ask me about anything [here](https://github.com/idrees04/idrees04/issues)
+
 </p>
 <br/>
 <br/>
@@ -130,4 +134,3 @@
 <p align="center">
   &copy; 2024 Muhammad Idrees | Frontend Developer
 </p>
-
