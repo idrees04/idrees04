@@ -96,7 +96,7 @@
 <br/>
 <br/>
 <br/>
-<hr/>
+
 <h2>📈 My GitHub Journey</h2>
 <p align="center">
   <a href="https://github.com/idrees04">
