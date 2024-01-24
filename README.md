@@ -2,7 +2,9 @@
 <a href="https://komarev.com/ghpvc/?username=idrees04">
   <img align="right" src="https://komarev.com/ghpvc/?username=idrees04&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
-
+<p align="center">
+  <a href="https://github.com/idrees04"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;2.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 <!-- WakaTime Badge -->
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
@@ -42,17 +44,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <!-- About Me Section -->
-<p align="center">
-  <a href="https://github.com/idrees04"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;2.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
 <h2>📚 About Me</h2>
 
 <p>
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
-  ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
-  ❤️ &emsp; Love writing code and learning new features<br/><br/>
-  💬 &emsp; Ask me about anything [here](https://github.com/idrees04/idrees04/issues)
+✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
+❤️ &emsp; Love writing code and learning new features<br/><br/>
+💬 &emsp; Ask me about anything [here](https://github.com/idrees04/idrees04/issues)
+
 </p>
 <br/>
 <br/>
@@ -83,6 +83,7 @@
 </a>
 
 <!-- GitHub Activity Graph -->
+
 ![Muhammad Idrees's Graph](https://github-readme-activity-graph.vercel.app/graph?username=idrees04&custom_title=Muhammad%20Idrees's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <!-- Growth and Learning Section -->
