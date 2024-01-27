@@ -14,7 +14,7 @@
 <!-- Header Section -->
 <h1>Muhammad Idrees: Frontend Developer Extraordinaire 🚀</h1>
 
-<p>Hello there! I'm Muhammad Idrees, a dedicated and passionate frontend developer hailing from the beautiful country of Pakistan. My journey in the world of programming is marked by constant learning and a deep love for crafting engaging user experiences.</p>
+<p>a dedicated and passionate frontend developer hailing from the beautiful country of Pakistan. My journey in the world of programming is marked by constant learning and a deep love for crafting engaging user experiences.</p>
 
 <!-- GitHub Profile Trophy -->
 <p><a target="_new" href="https://github.com/idrees04"><img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=idrees04"></a></p>
