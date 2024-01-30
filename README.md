@@ -26,7 +26,8 @@
   <li>Currently enhancing digital experiences at <a target="_new" href="https://www.linkedin.com/company/99technologies/">99 Technologies</a></li>
   <li>Explore my coding adventures at <a target="_new" href="https://github.com/idrees04?tab=repositories">My GitHub Repositories</a></li>
   <li>Got questions on React or React Native? Feel free to <a target="_new">reach out</a></li>
-  <li>Let's connect! <a target="_new" href="https://linkedin.com/in/muhammad-idrees-240784115/">LinkedIn</a> | <a target="_new" href="https://stackoverflow.com/users/8013797/muhammad-idrees">Stack Overflow</a> | <a target="_new" href="https://fb.com/idrees04">Facebook</a> | <a target="_new" href="https://www.youtube.com/c/idrees041">YouTube</a></li>
+  <li>Let's connect! <a target="_new" href="https://linkedin.com/in/muhammad-idrees-240784115/">LinkedIn</a> | <a target="_new" href="https://stackoverflow.com/users/8013797/muhammad-idrees">Stack Overflow</a> 
+  <!-- | <a target="_new" href="https://fb.com/idrees04">Facebook</a> | <a target="_new" href="https://www.youtube.com/c/idrees041">YouTube</a></li> -->
 </ul>
 
 <!-- Skills and Tools Section -->
