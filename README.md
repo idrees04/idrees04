@@ -93,7 +93,7 @@
 <!-- Growth and Learning Section -->
 <h2>🌱 Growth and Learning</h2>
 
-<p>As a self-taught programmer, I've journeyed through countless hours of coding, debugging, and learning. My path has been marked by persistent growth, a journey that reflects in every project I undertake. With over 2.5 years of hands-on experience, I continue to delve into the depths of frontend technologies, always eager to embrace new challenges and innovations.</p>
+<p>As a self-taught programmer, I've journeyed through countless hours of coding, debugging, and learning. My path has been marked by persistent growth, a journey that reflects in every project I undertake. With over 2.5 years of hands-on experience in react js and over 1 years in react native, I continue to delve into the depths of frontend technologies, always eager to embrace new challenges and innovations.</p>
 
 <!-- Philosophy Section -->
 <h2>💡 Philosophy</h2>
