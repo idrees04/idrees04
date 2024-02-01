@@ -117,4 +117,3 @@
 <p align="center">
   &copy; 2024 Muhammad Idrees | Frontend Developer
 </p>
-
