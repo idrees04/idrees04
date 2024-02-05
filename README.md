@@ -119,5 +119,3 @@
 </p>
 
 <a href="https://stackexchange.com/users/10901716"><img src="https://stackexchange.com/users/flair/10901716.png" width="208" height="58" alt="profile for Muhammad Idrees on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Muhammad Idrees on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
-<a href="https://stackoverflow.com/users/8013797/muhammad-idrees?theme=clean"><img src="https://stackoverflow.com/users/flair/8013797.png" width="208" height="58" alt="profile for Muhammad Idrees at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Muhammad Idrees at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
