@@ -118,3 +118,6 @@
   &copy; 2024 Muhammad Idrees | Frontend Developer
 </p>
 
+              - name: Metrics embed
+                uses: lowlighter/metrics@v3.34
+            
