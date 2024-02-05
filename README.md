@@ -118,13 +118,4 @@
   &copy; 2024 Muhammad Idrees | Frontend Developer
 </p>
 
-name: Top answers from stackoverflow
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.stackoverflow.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_stackoverflow: yes
-  plugin_stackoverflow_user: 1
-  plugin_stackoverflow_sections: answers-top
-  plugin_stackoverflow_limit: 2
+<a href="https://stackoverflow.com/users/8013797/muhammad-idrees"><img src="https://stackoverflow.com/users/flair/8013797.png" width="208" height="58" alt="Muhammad Idrees's Stack Overflow flair" title="Muhammad Idrees's Stack Overflow flair"></a>
