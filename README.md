@@ -118,4 +118,4 @@
   &copy; 2024 Muhammad Idrees | Frontend Developer
 </p>
 
-<a href="https://stackoverflow.com/users/8013797/muhammad-idrees"><img src="https://stackoverflow.com/users/flair/8013797.png" width="208" height="58" alt="Muhammad Idrees's Stack Overflow flair" title="Muhammad Idrees's Stack Overflow flair"></a>
+<a href="https://stackexchange.com/users/10901716"><img src="https://stackexchange.com/users/flair/10901716.png" width="208" height="58" alt="profile for Muhammad Idrees on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Muhammad Idrees on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
