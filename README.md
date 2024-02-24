@@ -55,9 +55,7 @@
 ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
 ❤️ &emsp; Love writing code and learning new features<br/><br/>
 💬 &emsp; Ask me about anything [here](https://github.com/idrees04/idrees04/issues)
-
 </p>
-<br/>
 <h2>Stack Overflow</h2>
 
 <a href="https://stackexchange.com/users/10901716"><img src="https://stackexchange.com/users/flair/10901716.png" width="208" height="58" alt="profile for Muhammad Idrees on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Muhammad Idrees on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
