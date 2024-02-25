@@ -13,10 +13,7 @@
 <br/>
 <!-- Header Section -->
 
-<p>a dedicated and passionate frontend developer hailing from the beautiful country of Pakistan. My journey in the world of programming is marked by constant learning and a deep love for crafting engaging user experiences.</p>
-
-<!-- GitHub Profile Trophy -->
-<p><a target="_new" href="https://github.com/idrees04"><img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=idrees04"></a></p>
+<p>A dedicated and passionate frontend developer hailing from the beautiful country of Pakistan. My journey in the world of programming is marked by constant learning and a deep love for crafting engaging user experiences.</p>
 
 <!-- Connect with Me Section -->
 <h2>🌐 Connect with Me</h2>
@@ -54,7 +51,7 @@
 
 ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
 ❤️ &emsp; Love writing code and learning new features<br/><br/>
-💬 &emsp; Ask me about anything [here](https://github.com/idrees04/idrees04/issues)
+💬 &emsp; Ask me about anything [here](https://github.com/idrees04/idrees04/issues) z
 </p>
 <h2>Stack Overflow</h2>
 
@@ -108,6 +105,8 @@
 <p>Feel free to connect with me on <a target="_new" href="https://www.linkedin.com/in/muhammad-idrees-240784115/">LinkedIn</a> for professional collaborations and networking. You can also reach out to me on WhatsApp at <a target="_new">+923338770433</a> 📱. Looking forward to engaging with you on exciting projects and discussions!</p>
 
 <hr>
+<!-- GitHub Profile Trophy -->
+<p><a target="_new" href="https://github.com/idrees04"><img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=idrees04"></a></p>
 
 <!-- Footer Section -->
 <p align="center">
