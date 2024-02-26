@@ -11,11 +11,6 @@
 <!-- WakaTime Badge -->
 <!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
 <br/>
-
-Certainly! I noticed a couple of small errors in the README. Here's the corrected version:
-
-markdown
-Copy code
 <!-- Header Section -->
 
 <p>A dedicated and passionate frontend developer hailing from the beautiful country of Pakistan. My journey in the world of programming is marked by constant learning and a deep love for crafting engaging user experiences.</p>
@@ -24,10 +19,11 @@ Copy code
 <h2>🌐 Connect with Me</h2>
 
 <ul>
-  <li>Currently enhancing digital experiences at <a target="_blank" href="https://www.linkedin.com/company/99technologies/">99 Technologies</a></li>
+ <li>Currently enhancing digital experiences at <a target="_blank" href="https://www.linkedin.com/company/99technologies/">99 Technologies</a></li>
   <li>Explore my coding adventures at <a target="_blank" href="https://github.com/idrees04?tab=repositories">My GitHub Repositories</a></li>
   <li>Got questions on React or React Native? Feel free to reach out</li>
   <li>Let's connect! <a target="_blank" href="https://linkedin.com/in/muhammad-idrees-240784115/">LinkedIn</a> | <a target="_blank" href="https://stackoverflow.com/users/8013797/muhammad-idrees">Stack Overflow</a></li>
+  <!-- | <a target="_new" href="https://fb.com/idrees04">Facebook</a> | <a target="_new" href="https://www.youtube.com/c/idrees041">YouTube</a></li> -->
 </ul>
 
 <!-- Skills and Tools Section -->
