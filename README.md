@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+
 <!-- Header Section -->
 <h1 align="center">Muhammad Idrees</h1>
 
@@ -13,9 +15,10 @@
 </p>
 
 <!-- About Me Section -->
-<h2><img src="https://img.icons8.com/bubbles/25/000000/about-me-male.png"/> About Me</h2>
+<h2 class="animate__animated animate__fadeIn"><img src="https://img.icons8.com/bubbles/25/000000/about-me-male.png"/> About Me</h2>
 
-<p>A dedicated and passionate frontend developer hailing from Pakistan. My journey in programming is marked by constant learning and a deep love for crafting engaging user experiences.</p>
+<p class="animate__animated animate__fadeIn">A dedicated and passionate frontend developer hailing from Pakistan. My journey in programming is marked by constant learning and a deep love for crafting engaging user experiences.</p>
+
 
 <!-- Connect with Me Section -->
 <h2><img src="https://img.icons8.com/bubbles/25/000000/linkedin.png"/> Connect with Me</h2>
@@ -28,9 +31,9 @@
 </ul>
 
 <!-- Skills and Tools Section -->
-<h2><img src="https://img.icons8.com/color/25/000000/code.png"/> Skills and Tools</h2>
+<h2 class="animate__animated animate__fadeIn"><img src="https://img.icons8.com/color/25/000000/code.png"/> Skills and Tools</h2>
 
-<p>I bring ideas to life using a spectrum of technologies:</p>
+<p class="animate__animated animate__fadeIn">I bring ideas to life using a spectrum of technologies:</p>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -109,3 +112,21 @@
 <p align="center">
   &copy; 2024 Muhammad Idrees | Frontend Developer
 </p>
+
+<script>
+  const animatedElements = document.querySelectorAll('.animate__animated');
+
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('animate__fadeIn');
+      } else {
+        entry.target.classList.remove('animate__fadeIn');
+      }
+    });
+  });
+
+  animatedElements.forEach(element => {
+    observer.observe(element);
+  });
+</script>
