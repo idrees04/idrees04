@@ -78,12 +78,12 @@
 </p>
 
 <!-- Growth and Learning Section -->
-<h2><img src="https://img.icons8.com/color/50/000000/growth.png"/> Growth and Learning</h2>
+<h2><img src="https://img.icons8.com/plasticine/50/000000/plant-under-rain.png"/> Growth and Learning</h2>
 
 <p>As a self-taught programmer, I've journeyed through countless hours of coding, debugging, and learning. With over 2.5 years of hands-on experience in React.js and over 1 year in React Native, I continue to delve into the depths of frontend technologies, always eager to embrace new challenges and innovations.</p>
 
 <!-- Philosophy Section -->
-<h2><img src="https://img.icons8.com/color/50/000000/think-idea.png"/> Philosophy</h2>
+<h2><img src="https://img.icons8.com/plasticine/50/000000/light-bulb.png"/> Philosophy</h2>
 
 <ul>
   <li><strong>Share to Grow:</strong> I believe in sharing knowledge. It not only helps others but enhances my own understanding.</li>
