@@ -13,12 +13,12 @@
 </p>
 
 <!-- About Me Section -->
-<h2><img src="https://img.icons8.com/bubbles/50/000000/about-me-male.png"/> About Me</h2>
+<h2><img src="https://img.icons8.com/bubbles/25/000000/about-me-male.png"/> About Me</h2>
 
 <p>A dedicated and passionate frontend developer hailing from Pakistan. My journey in programming is marked by constant learning and a deep love for crafting engaging user experiences.</p>
 
 <!-- Connect with Me Section -->
-<h2><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/> Connect with Me</h2>
+<h2><img src="https://img.icons8.com/bubbles/25/000000/linkedin.png"/> Connect with Me</h2>
 
 <ul>
   <li>Currently enhancing digital experiences at <a href="https://www.linkedin.com/company/99technologies/" target="_blank">99 Technologies</a></li>
@@ -28,7 +28,7 @@
 </ul>
 
 <!-- Skills and Tools Section -->
-<h2><img src="https://img.icons8.com/color/50/000000/code.png"/> Skills and Tools</h2>
+<h2><img src="https://img.icons8.com/color/25/000000/code.png"/> Skills and Tools</h2>
 
 <p>I bring ideas to life using a spectrum of technologies:</p>
 
@@ -43,15 +43,15 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F02532?style=for-the-badge&logo=git&logoColor=white)
 
 <!-- Stack Overflow Section -->
-<h2><img src="https://img.icons8.com/color/50/000000/stackoverflow.png"/> Stack Overflow</h2>
+<h2><img src="https://img.icons8.com/color/25/000000/stackoverflow.png"/> Stack Overflow</h2>
 
 <p><a href="https://stackexchange.com/users/10901716"><img src="https://stackexchange.com/users/flair/10901716.png" width="208" height="58" alt="profile for Muhammad Idrees on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Muhammad Idrees on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a></p>
 
 <!-- GitHub Journey Section -->
-<h2><img src="https://img.icons8.com/dusk/50/000000/github.png"/> GitHub Journey</h2>
+<h2><img src="https://img.icons8.com/dusk/25/000000/github.png"/> GitHub Journey</h2>
 
 <p align="center">
   <a href="https://github.com/idrees04">
@@ -78,12 +78,12 @@
 </p>
 
 <!-- Growth and Learning Section -->
-<h2><img src="https://img.icons8.com/plasticine/50/000000/plant-under-rain.png"/> Growth and Learning</h2>
+<h2><img src="https://img.icons8.com/plasticine/25/000000/plant-under-rain.png"/> Growth and Learning</h2>
 
 <p>As a self-taught programmer, I've journeyed through countless hours of coding, debugging, and learning. With over 2.5 years of hands-on experience in React.js and over 1 year in React Native, I continue to delve into the depths of frontend technologies, always eager to embrace new challenges and innovations.</p>
 
 <!-- Philosophy Section -->
-<h2><img src="https://img.icons8.com/ios/50/000000/idea.png"/> Philosophy</h2>
+<h2><img src="https://img.icons8.com/ios/25/000000/idea.png"/> Philosophy</h2>
 
 <ul>
   <li><strong>Share to Grow:</strong> I believe in sharing knowledge. It not only helps others but enhances my own understanding.</li>
@@ -92,7 +92,7 @@
 </ul>
 
 <!-- Let's Talk Section -->
-<h2><img src="https://img.icons8.com/ios-filled/50/000000/communication.png"/> Let's Talk</h2>
+<h2><img src="https://img.icons8.com/ios-filled/25/000000/communication.png"/> Let's Talk</h2>
 
 <p>Whether you have a project in mind, need advice on React, don't hesitate to reach out. I'm always open to discussing new ideas or lending a helping hand.</p>
 
@@ -101,7 +101,7 @@
 <hr>
 
 <!-- GitHub Profile Trophy -->
-<h2><img src="https://img.icons8.com/dusk/50/000000/trophy.png"/> GitHub Profile Trophy</h2>
+<h2><img src="https://img.icons8.com/dusk/25/000000/trophy.png"/> GitHub Profile Trophy</h2>
 
 <p><a href="https://github.com/idrees04"><img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=idrees04"></a></p>
 
