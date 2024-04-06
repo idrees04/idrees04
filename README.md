@@ -77,26 +77,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=idrees04&custom_title=Muhammad%20Idrees's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Muhammad Idrees's Graph">
 </p>
 
-<!-- Growth and Learning Section -->
-<h2><img src="https://img.icons8.com/plasticine/25/000000/plant-under-rain.png"/> Growth and Learning</h2>
-
-<p>As a self-taught programmer, I've journeyed through countless hours of coding, debugging, and learning. With over 2.5 years of hands-on experience in React.js and over 1 year in React Native, I continue to delve into the depths of frontend technologies, always eager to embrace new challenges and innovations.</p>
-
-<!-- Philosophy Section -->
-<h2><img src="https://img.icons8.com/ios/25/000000/idea.png"/> Philosophy</h2>
-
-<ul>
-  <li><strong>Share to Grow:</strong> I believe in sharing knowledge. It not only helps others but enhances my own understanding.</li>
-  <li><strong>Continuous Learning:</strong> Technology evolves rapidly, and so do I. Staying updated is not just a necessity but a passion.</li>
-  <li><strong>Quality Over Quantity:</strong> Every line of code I write is a reflection of my dedication to crafting high-quality and efficient solutions.</li>
-</ul>
-
-<!-- Let's Talk Section -->
-<h2><img src="https://img.icons8.com/ios-filled/25/000000/communication.png"/> Let's Talk</h2>
-
-<p>Whether you have a project in mind, need advice on React, don't hesitate to reach out. I'm always open to discussing new ideas or lending a helping hand.</p>
-
-<p>Feel free to connect with me on <a href="https://www.linkedin.com/in/muhammad-idrees-240784115/" target="_blank">LinkedIn</a> for professional collaborations and networking.</p>
 
 <hr>
 
