@@ -77,7 +77,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=idrees04&custom_title=Muhammad%20Idrees's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Muhammad Idrees's Graph">
 </p>
 
-
 <hr>
 
 <!-- GitHub Profile Trophy -->
