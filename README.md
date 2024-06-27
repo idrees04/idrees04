@@ -48,7 +48,7 @@
 <!-- Stack Overflow Section -->
 <h2><img src="https://img.icons8.com/color/25/000000/stackoverflow.png"/> Stack Overflow</h2>
 
-<p><a href="https://stackexchange.com/users/10901716"><img src="https://stackexchange.com/users/flair/10901716.png" width="208" height="58" alt="profile for Muhammad Idrees on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Muhammad Idrees on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a></p>
+<p><a href="https://stackexchange.com/users/10901716"><img src="https://stackexchange.com/users/flair/10901716.png" width="208" height="58" alt=" profile for Muhammad Idrees on Stack Exchange, a network of free, community-driven Q&amp; A sites" title=" profile for Muhammad Idrees on Stack Exchange, a network of free, community-driven Q&amp; A sites"></a></p>
 
 <!-- GitHub Journey Section -->
 <h2><img src="https://img.icons8.com/dusk/25/000000/github.png"/> GitHub Journey</h2>
