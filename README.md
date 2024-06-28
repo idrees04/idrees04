@@ -13,12 +13,12 @@
 </p>
 
 <!-- About Me Section -->
-<h2><img src="https://img.icons8.com/bubbles/25/000000/about-me-male.png"/> About Me</h2>
+<h1><img src="https://img.icons8.com/bubbles/25/000000/about-me-male.png"/> About Me</h1>
 
 <p>A dedicated and passionate frontend developer hailing from Pakistan. My journey in programming is marked by constant learning and a deep love for crafting engaging user experiences.</p>
 
 <!-- Connect with Me Section -->
-<h2><img src="https://img.icons8.com/bubbles/25/000000/linkedin.png"/> Connect with Me</h2>
+<h1><img src="https://img.icons8.com/bubbles/25/000000/linkedin.png"/> Connect with Me</h1>
 
 <ul>
   <li>Currently enhancing digital experiences at <a href="https://www.linkedin.com/company/99technologies/" target="_blank">99 Technologies</a></li>
@@ -28,7 +28,7 @@
 </ul>
 
 <!-- Skills and Tools Section -->
-<h2><img src="https://img.icons8.com/color/25/000000/code.png"/> Skills and Tools</h2>
+<h1><img src="https://img.icons8.com/color/25/000000/code.png"/> Skills and Tools</h1>
 
 <p>I bring ideas to life using a spectrum of technologies:</p>
 
@@ -46,12 +46,12 @@
 ![Git](https://img.shields.io/badge/Git-F02532?style=for-the-badge&logo=git&logoColor=white)
 
 <!-- Stack Overflow Section -->
-<h2><img src="https://img.icons8.com/color/25/000000/stackoverflow.png"/> Stack Overflow</h2>
+<h1><img src="https://img.icons8.com/color/25/000000/stackoverflow.png"/> Stack Overflow</h1>
 
 <p><a href="https://stackexchange.com/users/10901716"><img src="https://stackexchange.com/users/flair/10901716.png" width="208" height="58" alt=" profile for Muhammad Idrees on Stack Exchange, a network of free, community-driven Q&amp; A sites" title=" profile for Muhammad Idrees on Stack Exchange, a network of free, community-driven Q&amp; A sites"></a></p>
 
 <!-- GitHub Journey Section -->
-<h2><img src="https://img.icons8.com/dusk/25/000000/github.png"/> GitHub Journey</h2>
+<h1><img src="https://img.icons8.com/dusk/25/000000/github.png"/> GitHub Journey</h1>
 
 <p align="center">
   <a href="https://github.com/idrees04">
@@ -80,7 +80,7 @@
 <hr>
 
 <!-- GitHub Profile Trophy -->
-<h2><img src="https://img.icons8.com/dusk/25/000000/trophy.png"/> GitHub Profile Trophy</h2>
+<h1><img src="https://img.icons8.com/dusk/25/000000/trophy.png"/> GitHub Profile Trophy</h1>
 
 <p><a href="https://github.com/idrees04"><img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=idrees04"></a></p>
 
