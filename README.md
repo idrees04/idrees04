@@ -14,10 +14,6 @@
 
 <!-- About Me Section -->
 <h1><img src="https://img.icons8.com/bubbles/36/000000/about-me-male.png"/> About Me</h1>
-<h1 style="display: flex; align-items: center; font-family: Arial, sans-serif; font-size: 2em; color: #333;">
-  <img src="https://img.icons8.com/bubbles/36/000000/about-me-male.png" style="margin-right: 150px;" alt="About Me Icon" /> 
-  About Me
-</h1>
 
 <p>A dedicated and passionate frontend developer hailing from Pakistan. My journey in programming is marked by constant learning and a deep love for crafting engaging user experiences.</p>
 
