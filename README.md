@@ -13,7 +13,7 @@
 </p>
 
 <!-- About Me Section -->
-<h1><img src="https://img.icons8.com/bubbles/25/000000/about-me-male.png"/> About Me</h1>
+<h1><img src="https://img.icons8.com/bubbles/28/000000/about-me-male.png"/> About Me</h1>
 
 <p>A dedicated and passionate frontend developer hailing from Pakistan. My journey in programming is marked by constant learning and a deep love for crafting engaging user experiences.</p>
 
