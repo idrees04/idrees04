@@ -43,10 +43,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<!-- Stack Overflow Section -->
-<h1><img src="https://img.icons8.com/color/36/000000/stackoverflow.png"/> Stack Overflow</h1>
-<p><a href="https://stackexchange.com/users/10901716"><img src="https://stackexchange.com/users/flair/10901716.png" width="208" height="58" alt="Profile for Muhammad Idrees on Stack Exchange" title="Profile for Muhammad Idrees on Stack Exchange"></a></p>
-
 <!-- GitHub Journey Section -->
 <h1><img src="https://img.icons8.com/dusk/36/000000/github.png"/> GitHub Journey</h1>
 <p align="center">
