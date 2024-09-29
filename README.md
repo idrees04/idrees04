@@ -20,7 +20,6 @@
 <ul>
   <li>Explore my work on <a href="https://github.com/idrees04?tab=repositories" target="_blank">GitHub Repositories</a></li>
   <li>Professional Networking on <a href="https://linkedin.com/in/muhammad-idrees-240784115/" target="_blank">LinkedIn</a></li>
-  <li>Technical Discussions on <a href="https://stackoverflow.com/users/8013797/muhammad-idrees" target="_blank">Stack Overflow</a></li>
 </ul>
 
 <!-- Skills and Tools Section -->
