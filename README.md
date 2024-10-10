@@ -53,7 +53,7 @@
 <!-- GitHub Contribution Section -->
 <p align="center">
   <a href="https://github.com/idrees04">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idrees04&theme=radical" alt="Muhammad Idrees's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idrees04&theme=radical" alt=" Muhammad Idrees's GitHub Contribution"/>
   </a>
 </p>
 
@@ -78,4 +78,3 @@
 <p align="center">
   &copy; 2024 Muhammad Idrees | Frontend Developer
 </p>
-
