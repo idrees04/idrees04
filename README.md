@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm a passionate **Frontend Developer** based in Rawalpind
 
 ## 💼 Professional Experience
 ### Frontend Developer | Bilberry IT Solutions  
-_August 2024 – Present | Rawalpindi, Pakistan_  
+_August 2024 – Present | Remote 
 - Architect scalable frontend solutions using React.js, Next.js, TypeScript, Tailwind CSS, ShadCN, and Material UI, aligning with 2025 design standards.  
 - Optimise API integrations, reducing response times by 20% using Zustand/Redux for efficient state management.  
 - Design reusable UI components, cutting development time by 15% and ensuring 100% device compatibility.
