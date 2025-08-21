@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <h1 align="center">Muhammad Idrees</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Frontend+Developer;React+Expert+with+4%2B+Years+Experience;Always+Evolving+and+Learning&center=true&width=450&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Frontend+Developer;React+Expert+with+5%2B+Years+Experience;Always+Evolving+and+Learning&center=true&width=450&height=45">
 </p>
 
 <!-- GitHub Profile Visitors Badge -->
