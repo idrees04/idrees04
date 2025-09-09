@@ -86,7 +86,7 @@ Arid Agriculture University Rawalpindi
 - 📧 Email: [idrees04@yahoo.com](mailto:idrees04@yahoo.com)  
 - 💻 GitHub: [github.com/idrees04](https://github.com/idrees04)  
 - 📚 Stack Overflow: [stackoverflow.com/users/8013797/muhammad-idrees](https://stackoverflow.com/users/8013797/muhammad-idrees)  
-- 📱 Phone: +92 333 897 7043
+- 📱 Phone: +92 333 87 70433
 
 ---
 
