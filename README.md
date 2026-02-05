@@ -1,148 +1,204 @@
-# Muhammad Idrees 🚀
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Muhammad Idrees</h1>
 
-**Senior Frontend Developer | React.js & Next.js Specialist**  
-Islamabad, Pakistan | 📞 +92-333-8770433 | ✉️ idrees04@yahoo.com  
-[GitHub](https://github.com/idrees04) | [LinkedIn](https://linkedin.com/in/muhammad-idrees-240784115/)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Frontend+Developer;React+%7C+Next.js+%7C+TypeScript+Specialist;5%2B+Years+Production+Experience;Enterprise+AML+%7C+KYC+%7C+ESG+Platforms;Always+Learning+%26+Optimizing&center=true&width=650&height=45&color=F85D7F">
+</p>
 
----
-
-## About Me
-
-Frontend Developer with **5+ years of experience** (including **3.7+ years full-time**) delivering scalable, enterprise-grade web applications. Specializes in **React.js, Next.js, and TypeScript**, building AML, KYC/KYB, and ESG compliance platforms for 25+ regulated clients. Skilled in **state management, performance optimization, and API integration**, consistently improving UI performance by up to **20%**. Passionate about creating **clean, maintainable, and responsive interfaces** while mentoring junior developers.
-
----
-
-## 🛠 Skills
-
-**Programming & Frontend**  
-React.js | Next.js | React Native | Vue.js | TypeScript | JavaScript (ES6+) | HTML5 | CSS3  
-
-**UI Frameworks & Styling**  
-Material-UI | Tailwind CSS | Bootstrap | ShadCN | Styled Components | CSS Modules  
-
-**State Management & Forms**  
-Redux | Redux Toolkit | Zustand | TanStack Query | Context API | React Hook Form | Formik | Yup | Zod  
-
-**Tables & Performance**  
-TanStack Table | Virtualization | Code Splitting | Lazy Loading | Memoization | Webpack  
-
-**Backend & APIs**  
-Node.js | Express.js | REST APIs | MongoDB | PostgreSQL | MySQL | SQLite  
-
-**DevOps & Tools**  
-Git | Docker | Jira | CI/CD | Figma | Postman | Swagger | Jest | React Testing Library  
-
-**Methodologies & Practices**  
-Agile/Scrum | Responsive Design | Mobile-First | Internationalization (i18n) | Accessibility (a11y) | Clean Code  
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=idrees04">
+    <img src="https://komarev.com/ghpvc/?username=idrees04&label=Profile%20Views&color=0D1117&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/idrees04">
+    <img src="https://img.shields.io/github/followers/idrees04?label=Followers&style=for-the-badge&color=7F3FBF">
+  </a>
+  <a href="https://github.com/idrees04">
+    <img src="https://img.shields.io/github/stars/idrees04?label=Stars&style=for-the-badge&color=F8D866">
+  </a>
+</p>
 
 ---
 
-## 💼 Work Experience
+## 👋 About Me
 
-### Frontend Developer – First Compliance / Bilberry IT Solutions  
-*Islamabad, Pakistan | 08/2024 – Present*
+I’m **Muhammad Idrees**, a **Senior Frontend Developer** with **5+ years of professional experience** (including **3.7+ years full-time**) building **production-grade, enterprise applications**.
 
-- Developed an **all-in-one AML & due diligence platform** for 25+ enterprise clients across financial services, DNFBPs, and regulated entities.  
-- Built **ESG compliance portal** with role-based dashboards for sustainability reporting, carbon tracking, and real-time audit trails.  
-- Created a **training and certification platform** for compliance education with course management and certification issuance.  
+I specialize in **React.js, Next.js, and TypeScript**, currently working on **AML, KYC/KYB, and ESG compliance platforms** used by **25+ regulated clients**. I focus heavily on **performance optimization, scalable architecture, clean UI systems**, and **API-driven development**, delivering measurable UI performance gains of up to **20%**.
 
-**Tech Stack:** React.js, TypeScript, Tailwind CSS, Material-UI, Redux Toolkit, TanStack Table & Query, ShadCN  
+- 🏢 **Currently:** Frontend Developer at **Bilberry IT Solutions / First Compliance**
+- 🎯 **Focus:** Enterprise Frontend, Performance, State Management, Clean Architecture
+- 🌍 **Location:** Islamabad / Rawalpindi, Pakistan
+- 🧠 **Mindset:** Senior-level ownership, long-term maintainability, real-world impact
 
 ---
 
-### React.js Developer – 99 Technologies  
-*Rawalpindi, Pakistan | 08/2023 – 08/2024*
+## 🧩 Core Tech Stack
 
-- Developed scalable UI components, improving **application performance by 20%**.  
-- Integrated RESTful APIs with Laravel backend, enhancing **data flow stability and validation**.  
-- Implemented complex forms with React Hook Form and schema-based validation.  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,nodejs,mongodb,docker,git,figma&perline=7" />
+</p>
+
+---
+
+## 🛠 Technical Skills
+
+### Frontend & Mobile
+- React.js, Next.js, React Native, Vue.js  
+- TypeScript, JavaScript (ES6+), HTML5, CSS3  
+
+### UI & Styling
+- Tailwind CSS, Material UI, ShadCN, Bootstrap  
+- Styled Components, CSS Modules  
+- Mobile-First & Fully Responsive Design  
+
+### State, Forms & Data
+- Redux, Redux Toolkit, Zustand  
+- TanStack Query, Context API  
+- React Hook Form, Formik, Yup, Zod  
+
+### Performance & Architecture
+- TanStack Table, Virtualization  
+- Code Splitting, Lazy Loading, Memoization  
+- Component Architecture, Clean Code  
+
+### Backend & APIs
+- Node.js, Express.js  
+- REST APIs, Swagger, Postman  
+- MongoDB, PostgreSQL, MySQL, SQLite  
+
+### DevOps & Practices
+- Git, GitHub, Docker  
+- Agile / Scrum, Jira  
+- CI/CD, i18n, Accessibility (a11y)  
+
+---
+
+## 💼 Professional Experience
+
+### **Frontend Developer** — First Compliance / Bilberry IT Solutions  
+📍 Islamabad, Pakistan | 🗓 **Aug 2024 – Present**
+
+- Built an **enterprise AML & Compliance platform** (“ERP for Compliance”) used by **25+ clients**
+- Developed **KYC/KYB, AML screening, EWRA/BRA, transaction monitoring & case management**
+- Delivered **ESG Compliance Portal** with role-based dashboards and audit trails
+- Created **Training & Certification Platform** with progress tracking and certificate issuance  
+
+**Tech:** React.js, TypeScript, Tailwind CSS, ShadCN, Material UI, TanStack Query & Table
+
+---
+
+### **React.js Developer** — 99 Technologies  
+📍 Rawalpindi | 🗓 **Aug 2023 – Aug 2024**
+
+- Improved UI performance by **~20%** using memoization & code splitting  
+- Integrated REST APIs with Laravel backend  
+- Built complex enterprise forms with schema-based validation  
+
+**Award:** 🏆 *Certificate of Excellence (2023)*  
 
 **Key Projects:**  
-- **Email Marketing System** – Real-time analytics & automated campaigns  
-- **Inventory Management System** – eBay-integrated inventory with customer/vendor roles  
-- **SJ Computers E-commerce** – Shopping cart, authentication & secure payments  
-- **CRM System** – Excel data import, Material-UI, Redux  
+- Email Marketing System  
+- Inventory Management System (eBay integration)  
+- CRM System (Excel import)  
+- E-commerce Platform  
 
 ---
 
-### React.js Developer – VisualSoft Global (LLP)  
-*Rawalpindi, Pakistan | 11/2022 – 08/2023*
+### **React.js Developer** — VisualSoft Global (LLP)  
+📍 Rawalpindi | 🗓 **Nov 2022 – Aug 2023**
 
-- Engineered scalable React components with **advanced state management**, optimizing rendering by 15%.  
-- Implemented Redux Toolkit and Context API for complex workflows.  
+- Optimized rendering performance by **~15%**
+- Implemented Redux Toolkit & Context API
+- Converted Figma designs into pixel-perfect responsive UI  
 
-**Project:** Babylon Clubhouse NFT Marketplace – Digital collectibles platform with Material-UI  
-
----
-
-### React.js Developer – BCDApps  
-*Rawalpindi, Pakistan | 08/2022 – 11/2022*
-
-- Developed reusable React components with responsive UI.  
-- Implemented **internationalization** for Vue.js applications.  
-- Integrated secure RESTful backend APIs.  
+**Project:** Babylon Clubhouse NFT Marketplace  
 
 ---
 
-### Software Engineer (Part-Time) – Alexa IT Homes  
-*Rawalpindi, Pakistan | 01/2019 – 08/2022*
+### **React.js Developer** — BCDApps  
+📍 Rawalpindi | 🗓 **Aug 2022 – Nov 2022**
 
-- Built **web applications using React & ASP.NET Core**.  
-- Designed SQL Server databases and reusable React components/hooks.  
+- Built reusable React components
+- Implemented **i18n** for Vue.js apps
+- Integrated Node.js + Express APIs  
 
-**Key Projects:**  
-- Hot Deals Platform – React.js deal discovery app  
-- Quranic Quiz Apps – React Native mobile apps  
-- Salah Quiz Android App – Java Android application  
-- Class Held Report System – Full-stack Android app with SQLite  
+---
+
+### **Software Engineer (Part-Time)** — Alexa IT Homes  
+📍 Rawalpindi | 🗓 **Jan 2019 – Aug 2022**
+
+- Developed React & ASP.NET Core applications
+- Designed SQL Server databases & reusable hooks  
+
+**Projects:**  
+- Hot Deals Platform  
+- Quranic Quiz Apps (React Native)  
+- Salah Quiz Android App (Java)  
 
 ---
 
 ## 🚀 Independent Projects
 
-- **Al-Busayra Delivery Services (11/2023 – 12/2024)** – Next.js logistics platform with real-time rider tracking.  
-- **News Aggregator Platform (04/2024)** – React.js app with NewsAPI integration, Docker deployment, and responsive Material-UI components.  
-- **Pharmaceutical Distribution System (Ongoing)** – React.js solution with TypeScript, Zustand, ShadCN/UI, role-based access, and responsive design.  
+- **Al-Busayra Delivery Services** — Next.js logistics & rider tracking platform (UAE)  
+- **News Aggregator Platform** — React + NewsAPI + Docker  
+- **Pharmaceutical Distribution System** — Role-based React system (Ongoing)  
 
 ---
 
 ## 🎓 Education
 
-**Master of Computer Science**  
-Arid Agriculture University, Rawalpindi, Pakistan | 2014 – 2017  
+🎓 **Master of Computer Science**  
+Arid Agriculture University, Rawalpindi  
+**2014 – 2017**
 
 ---
 
-## 🏆 Certifications & Awards
+## 🏅 Certifications & Honors
 
-- **RocketDevs Certified Top 5% Frontend Developer** – 01/2026  
-- **Certificate of Excellence**, 99 Technologies – 2023  
-- **React + Redux Certification**, SoloLearn – 03/2021  
-- **SEO Certification**, DigiSkills.pk – 10/2020  
-
-**Honors:**  
-- Appreciation Letters from COMSATS University Islamabad – 2019 & 2022  
+- 🥇 **RocketDevs – Top 5% Frontend Developer (2026)**  
+- 🏆 Certificate of Excellence — 99 Technologies (2023)  
+- 📜 React + Redux — SoloLearn (2021)  
+- 📜 SEO — DigiSkills.pk (2020)  
+- 🏅 Appreciation Letters — COMSATS University (2019, 2022)  
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Analytics
 
-- **Email:** [idrees04@yahoo.com](mailto:idrees04@yahoo.com)  
-- **LinkedIn:** [linkedin.com/in/muhammad-idrees-240784115](https://linkedin.com/in/muhammad-idrees-240784115/)  
-- **GitHub:** [github.com/idrees04](https://github.com/idrees04)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idrees04&theme=radical&background=0D1117&border=7F3FBF" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idrees04&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=idrees04&show_icons=true&count_private=true&theme=react&bg_color=0D1117&border_color=7F3FBF&title_color=F85D7F" width="49%"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=idrees04&layout=compact&theme=react&bg_color=0D1117&border_color=7F3FBF&title_color=F85D7F" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=idrees04&bg_color=0D1117&color=7F3FBF&line=F85D7F&point=FFFFFF&area=true" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
-![Muhammad Idrees GitHub Stats](https://github-readme-stats.vercel.app/api?username=idrees04&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idrees04&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=idrees04&theme=radical&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
+## 🌐 Connect With Me
 
-- Advanced **React Server Components** & **Next.js 14 features**  
-- TypeScript **strict mode patterns** for large-scale enterprise apps  
-- **AI-powered frontend optimization techniques** for compliance platforms
+- 📧 **Email:** idrees04@yahoo.com  
+- 💼 **LinkedIn:** https://linkedin.com/in/muhammad-idrees-240784115  
+- 💻 **GitHub:** https://github.com/idrees04  
+- 📞 **Phone / WhatsApp:** +92-333-8770433  
+
+---
+
+⭐ **Fun Fact:** I treat frontend like engineering, not just UI — performance, scalability, and long-term maintainability always come first.
