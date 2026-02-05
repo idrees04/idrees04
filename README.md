@@ -8,7 +8,7 @@ Islamabad, Pakistan | 📞 +92-333-8770433 | ✉️ idrees04@yahoo.com
 
 ## About Me
 
-Frontend Developer with **5+ years of experience** (including **3+ years full-time**) delivering scalable, enterprise-grade web applications. Specializes in **React.js, Next.js, and TypeScript**, building AML, KYC/KYB, and ESG compliance platforms for 25+ regulated clients. Skilled in **state management, performance optimization, and API integration**, consistently improving UI performance by up to **20%**. Passionate about creating **clean, maintainable, and responsive interfaces** while mentoring junior developers.
+Frontend Developer with **5+ years of experience** (including **3.7+ years full-time**) delivering scalable, enterprise-grade web applications. Specializes in **React.js, Next.js, and TypeScript**, building AML, KYC/KYB, and ESG compliance platforms for 25+ regulated clients. Skilled in **state management, performance optimization, and API integration**, consistently improving UI performance by up to **20%**. Passionate about creating **clean, maintainable, and responsive interfaces** while mentoring junior developers.
 
 ---
 
