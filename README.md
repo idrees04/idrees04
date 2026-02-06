@@ -7,14 +7,14 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=idrees04">
-    <img src="https://komarev.com/ghpvc/?username=idrees04&label=Profile%20Views&color=0D1117&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=idrees04&label=Profile%20Views&color=7F3FBF&style=for-the-badge" />
   </a>
-  <a href="https://github.com/idrees04">
+  <!-- <a href="https://github.com/idrees04">
     <img src="https://img.shields.io/github/followers/idrees04?label=Followers&style=for-the-badge&color=7F3FBF">
   </a>
   <a href="https://github.com/idrees04">
     <img src="https://img.shields.io/github/stars/idrees04?label=Stars&style=for-the-badge&color=F8D866">
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 I’m **Muhammad Idrees**, a **Senior Frontend Developer** with **5+ years of professional experience** (including **3.7+ years full-time**) building **production-grade, enterprise applications**.
 
-I specialize in **React.js, Next.js, and TypeScript**, currently working on **AML, KYC/KYB, and ESG compliance platforms** used by **25+ regulated clients**. I focus heavily on **performance optimization, scalable architecture, clean UI systems**, and **API-driven development**, delivering measurable UI performance gains of up to **20%**.
+I specialise in **React.js, Next.js, and TypeScript**, currently working on **AML, KYC/KYB, and ESG compliance platforms** used by **25+ regulated clients**. I focus heavily on **performance optimisation, scalable architecture, clean UI systems**, and **API-driven development**, delivering measurable UI performance gains of up to **20%**.
 
 - 🏢 **Currently:** Frontend Developer at **Bilberry IT Solutions / First Compliance**
 - 🎯 **Focus:** Enterprise Frontend, Performance, State Management, Clean Architecture
@@ -57,8 +57,8 @@ I specialize in **React.js, Next.js, and TypeScript**, currently working on **AM
 - React Hook Form, Formik, Yup, Zod  
 
 ### Performance & Architecture
-- TanStack Table, Virtualization  
-- Code Splitting, Lazy Loading, Memoization  
+- TanStack Table, Virtualisation  
+- Code Splitting, Lazy Loading, Memoisation  
 - Component Architecture, Clean Code  
 
 ### Backend & APIs
@@ -107,7 +107,7 @@ I specialize in **React.js, Next.js, and TypeScript**, currently working on **AM
 ### **React.js Developer** — VisualSoft Global (LLP)  
 📍 Rawalpindi | 🗓 **Nov 2022 – Aug 2023**
 
-- Optimized rendering performance by **~15%**
+- Optimised rendering performance by **~15%**
 - Implemented Redux Toolkit & Context API
 - Converted Figma designs into pixel-perfect responsive UI  
 
