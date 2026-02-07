@@ -202,3 +202,4 @@ Arid Agriculture University, Rawalpindi
 ---
 
 ⭐ **Fun Fact:** I treat frontend like engineering, not just UI — performance, scalability, and long-term maintainability always come first.
+
