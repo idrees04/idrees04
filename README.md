@@ -198,7 +198,7 @@ Arid Agriculture University, Rawalpindi
 - 📧 **Email:** idrees04@yahoo.com  
 - 💼 **LinkedIn:** https://linkedin.com/in/muhammad-idrees-240784115  
 - 💻 **GitHub:** https://github.com/idrees04  
-- 📞 **Phone / WhatsApp:** +92-333-8770433  
+- 📞 **Phone / WhatsApp:** [+92-333-8770433](https://api.whatsapp.com/send/?phone=923338770433&text=Hello+Muhammad+Idrees%2C+I%27m+reaching+out+from+your+GitHub%portfolio.+I%27d+love+to+connect+and+discuss+how+we+can+work+together%21&type=phone_number&app_absent=0)  
 
 ---
 
